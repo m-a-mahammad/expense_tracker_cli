@@ -20,11 +20,10 @@
 ## 📦 التثبيت
 
 ```bash
-`npm install`
+npm install
 ```
 ## ▶️ الاستخدام
 
-```
 ```bash
 npx tsx index.ts <command> [options]
 ```
@@ -32,7 +31,6 @@ npx tsx index.ts <command> [options]
 
 إضافة مصروف:
 
-```
 ```bash
 expense-tracker add -d "Lunch" -m 50
 ```
@@ -78,3 +76,4 @@ expense-tracker summary
 ├── expenses.xlsx              # ملف المصروفات
 └── README.md
 ```
+
